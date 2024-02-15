@@ -1,0 +1,25 @@
+head{
+    background-color: #E5E384;
+}
+
+
+body {
+    background-color: #AFF6EE;
+    margin: 0;
+    padding: 0;
+}
+
+u1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    border-color: black;
+    border-width: 5px;
+    border-style: dashed;
+}
+
+strong{
+    color:#161259;
+}
